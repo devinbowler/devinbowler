@@ -6,7 +6,7 @@ I'm a programmer focusing in web development and machine learning. I am currentl
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-<a href="devinbowler.com">My Portfolio</a>
+<a href="www.devinbowler.com">My Portfolio</a>
 
 
 

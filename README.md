@@ -6,9 +6,9 @@ I'm a programmer focusing in web development and machine learning. I am currentl
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-www.devinbowler.com
+View My Portfolio Here ----> www.devinbowler.com
 
-
+---------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

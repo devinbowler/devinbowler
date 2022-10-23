@@ -8,7 +8,7 @@ I'm a programmer focusing in web development and machine learning. I am currentl
 
 <a href="devinbowler.com">My Portfolio</a>
 
----------------------------------------------------------------------------------------------------------------------------
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

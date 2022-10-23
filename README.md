@@ -6,13 +6,13 @@ I'm a programmer focusing in web development and machine learning. I am currentl
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-View My Portfolio Here ----> www.devinbowler.com
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/devin bowler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devin bowler" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/devin the developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devin the developer" height="30" width="40" /></a>
 </p>
+
+View My Portfolio Here ----> www.devinbowler.com
 
 ---------------------------------------------------------------------------------------------------------------------------
 

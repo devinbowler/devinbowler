@@ -2,7 +2,7 @@
 
 **`Computer Science (Web Development | Machine Learning)`**
 
-I'm a programmer focusing in web development and machine learning. I am currently a university student looking for internship opportunities in this field. I try to work on projects that reflect good skills and development in my porgramming experience. Along side my tutoring position at my school, I started a YouTube channel <a href="https://www.youtube.com/channel/UC9cdOWpenoXrl0hLMh9oy8g">Devin the Developer</a>, which I am uploading tutorials to assist other students in their journey.
+I'm a programmer focusing in web development and machine learning. I am currently a university student looking for internship opportunities in this field. I work on projects that reflect good skills and development in my porgramming experience. Along side my tutoring position at my school, I started a YouTube channel <a href="https://www.youtube.com/channel/UC9cdOWpenoXrl0hLMh9oy8g">Devin the Developer</a>, which I am uploading tutorials to assist other students in their journey.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
